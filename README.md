@@ -1,12 +1,35 @@
-### Hi there 👋, I’m @YASHCHOUDHARY
+🚀 Full-Stack Engineer | TypeScript Specialist | Microservices Architect
+Hi, I'm Yash Choudhary — A TypeScript Full-Stack Developer building scalable microservices with Node.js, React, and cloud-native architectures. I craft type-safe, maintainable systems that scale from prototype to production.
 
-- 👀 I’m interested in web development, especially working with React, Redux, and APIs.
-- 🌱 I’m currently learning backend development and improving my skills with various APIs 
-- 💞 I’m looking to collaborate on open-source projects and any cool front-end or backend projects involving APIs.
-- 📫 How to reach me: You can reach me via [yashpawar12122004@gmail.com](mailto:yashpawar12122004@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yash-choudhary-28766a259/).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new technologies and creating  projects to test my skills. One of my recent projects is a Goodreads clone!
+🔥 Core Competencies
+✔ Full-Stack TypeScript: React/Next.js (FE) + Node.js/NestJS (BE)
+✔ Microservices Expert: Designed & deployed containerized services with Docker/Kubernetes
+✔ API Artisan: REST, GraphQL, and WebSocket implementations
+✔ Performance Optimizer: Reduced API latency by 60% through caching and query tuning
+✔ System Designer: 950+ LeetCode solutions with focus on scalable architectures
 
+🌟 Technical Highlights
+🚀 TrendSphere: Built type-safe e-commerce platform with:
+
+Microservices architecture (Node.js + TypeScript)
+
+Real-time inventory management
+
+Multi-role JWT authentication system
+
+📈 Backend Leadership at Rablo.in:
+
+Led migration to TypeScript codebase
+
+Implemented CI/CD pipelines for microservices
+
+Mentored team on type-safe development patterns
+
+🏆 Competitive Coder:
+
+Ranked Top 2% in LeetCode contests
+
+Specialized in TypeScript algorithm solutions
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-choudhary-28766a259/)
