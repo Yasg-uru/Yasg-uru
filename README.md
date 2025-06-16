@@ -10,7 +10,7 @@ Hi there! I'm **Yash Choudhary**, a passionate Full-Stack Developer focused on b
 - ✅ **Microservices Architecture**: Docker, Kubernetes  
 - ✅ **API Development**: REST, GraphQL, WebSockets  
 - ✅ **Performance Optimization**: Reduced API latency by 60% via caching & query tuning  
-- ✅ **System Design Expertise**: 950+ LeetCode solutions focused on scalable systems  
+- ✅ **System Design Expertise**: 1000+ LeetCode solutions focused on scalable systems  
 
 ---
 
