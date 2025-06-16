@@ -1,22 +1,33 @@
-- 👋 Hi, I’m Yash Choudhary
-- 👀 I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I love building modern web applications that are fast, scalable, and user-centric. I'm always exploring new technologies and frameworks to deliver high-quality software solutions.
-- 🛠️ Tech Stack
-Frontend: React, Redux, Tailwind CSS, shadcn, TypeScript
-Backend: Node.js, Express.js, MongoDB, PostgreSQL, Mongoose, Prisma
-Other Tools: REST APIs, JWT, OAuth2, Microservices Architecture, Razorpay (Payment Integration), Redis, WebSockets, Nodemailer
-Testing: Jest, Mocha, Chai
-Version Control: Git, GitHub
-CI/CD: Docker, GitHub Actions
-- 🌟 What I'm Currently Working On
-Procoders: A comprehensive online learning platform with real-time search, filters, note-taking during lectures, progress tracking, and secure payments.
-Splitwise Clone: An advanced expense-tracking app with microservices architecture, notifications, and detailed user analytics.
-Virtual Wardrobe Organizer: An intelligent clothing suggestion system with weather-based recommendations and wear tracking.
-- 🚀 My Goals
-Deepen my expertise in microservices architecture.
-Contribute to open-source projects.
-Learn more about cloud-native development and serverless applications.
+### Hi there 👋, I’m @YASHCHOUDHARY
 
-<!---
-Yasg-uru/Yasg-uru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in web development, especially working with React, Redux, and APIs.
+- 🌱 I’m currently learning backend development and improving my skills with various APIs 
+- 💞 I’m looking to collaborate on open-source projects and any cool front-end or backend projects involving APIs.
+- 📫 How to reach me: You can reach me via [yashpawar12122004@gmail.com](mailto:yashpawar12122004@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yash-choudhary-28766a259/).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new technologies and creating  projects to test my skills. One of my recent projects is a Goodreads clone!
+
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-choudhary-28766a259/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yash_12122004/)
+
+
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasg-uru&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasg-uru&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yasg-uru&theme=radical)](https://git.io/streak-stats)
